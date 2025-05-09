@@ -1,0 +1,52 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Blight
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 2.252867 3.369241 5.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Boutlays
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd outlays_albedo.png
+map_Ke outlays_emission.jpg
+
+newmtl Boutlays2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd outlays_albedo.png
+
+newmtl Buildings_bake
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd qwe2.jpg
+
+newmtl Bwindows
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd windows_albedo.jpg

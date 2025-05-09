@@ -1,0 +1,82 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl churchHmain
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd churchHmain_albedo.jpg
+
+newmtl churchHmetal
+Ns 1000.000000
+Ka 0.963636 0.963636 0.963636
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl churchHtadd
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd churchHadd_albedo.png
+
+newmtl churchHtop
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.352727 0.352727 0.352727
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd churchHtop_albedo.jpg
+
+newmtl churchHwindows1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd churchH_w1_albedo.jpg
+
+newmtl churchHwindows1G
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd churchH_w1_albedo.jpg
+map_Ks churchH_w1_roughness.jpg
+
+newmtl churchHwindows2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd churchH_w2_albedo.png
+
+newmtl churchHwindows2G
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd churchH_w2_albedo.png
+map_Ks churchH_w2_roughness.jpg

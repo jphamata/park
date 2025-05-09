@@ -1,0 +1,13 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl 10812_w_Juliette
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd 10812_w_Juliette_Diffuse Color
+map_d 10812_w_Juliette_Diffuse Color.001
+map_Bump -bm 1.000000 1012_masked_bundle_mat6_n.jpg
